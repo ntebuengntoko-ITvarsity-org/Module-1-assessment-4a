@@ -1,0 +1,13 @@
+table{
+    font-family: serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkgoldenrod;
+}
+th{
+    font-weight: 800;
+    background-color: darkgoldenrod;
+    color: floralwhite;
+    
+}
